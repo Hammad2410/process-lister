@@ -1,0 +1,37 @@
+TCP Connections:
+Local Addr: 0.0.0.0:135 | Remote Addr: 0.0.0.0:0 | PID: 1200 | 
+Local Addr: 192.168.18.47:139 | Remote Addr: 0.0.0.0:0 | PID: 4 | 
+Local Addr: 192.168.56.1:139 | Remote Addr: 0.0.0.0:0 | PID: 4 | 
+Local Addr: 0.0.0.0:5040 | Remote Addr: 0.0.0.0:0 | PID: 7892 | 
+Local Addr: 127.0.0.1:8080 | Remote Addr: 0.0.0.0:0 | PID: 12256 | Process Name: C:\Program Files\OpenJDK\jdk-22.0.2\bin\java.exe
+Local Addr: 127.0.0.1:10068 | Remote Addr: 0.0.0.0:0 | PID: 12256 | Process Name: C:\Program Files\OpenJDK\jdk-22.0.2\bin\java.exe
+Local Addr: 192.168.18.47:23233 | Remote Addr: 20.249.168.26:443 | PID: 13952 | Process Name: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\130.0.2849.80\msedgewebview2.exe
+Local Addr: 127.0.0.1:31415 | Remote Addr: 127.0.0.1:31416 | PID: 22096 | Process Name: C:\Program Files (x86)\Nmap\zenmap\bin\pythonw.exe
+Local Addr: 127.0.0.1:31416 | Remote Addr: 127.0.0.1:31415 | PID: 22096 | Process Name: C:\Program Files (x86)\Nmap\zenmap\bin\pythonw.exe
+Local Addr: 127.0.0.1:31985 | Remote Addr: 127.0.0.1:31986 | PID: 16920 | Process Name: C:\Users\Pc\AppData\Roaming\Zoom\bin\Zoom.exe
+Local Addr: 127.0.0.1:31986 | Remote Addr: 127.0.0.1:31985 | PID: 16920 | Process Name: C:\Users\Pc\AppData\Roaming\Zoom\bin\Zoom.exe
+Local Addr: 192.168.18.47:39344 | Remote Addr: 134.224.240.213:443 | PID: 16920 | Process Name: C:\Users\Pc\AppData\Roaming\Zoom\bin\Zoom.exe
+Local Addr: 192.168.18.47:39352 | Remote Addr: 20.212.88.117:443 | PID: 12208 | Process Name: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Local Addr: 192.168.18.47:39357 | Remote Addr: 20.167.82.148:443 | PID: 16932 | Process Name: C:\Program Files\WindowsApps\MSTeams_24277.3507.3205.5228_x64__8wekyb3d8bbwe\ms-teams.exe
+Local Addr: 192.168.18.47:39362 | Remote Addr: 52.123.135.191:443 | PID: 4584 | Process Name: C:\Program Files\WindowsApps\MSTeams_24277.3507.3205.5228_x64__8wekyb3d8bbwe\ms-teams.exe
+Local Addr: 192.168.18.47:39562 | Remote Addr: 52.123.137.100:443 | PID: 13952 | Process Name: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\130.0.2849.80\msedgewebview2.exe
+Local Addr: 192.168.18.47:40277 | Remote Addr: 140.82.113.26:443 | PID: 12208 | Process Name: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Local Addr: 192.168.18.47:40349 | Remote Addr: 4.144.165.14:443 | PID: 18436 | Process Name: C:\Windows\System32\smartscreen.exe
+Local Addr: 192.168.18.47:40378 | Remote Addr: 52.182.143.214:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40390 | Remote Addr: 13.74.129.1:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40391 | Remote Addr: 204.79.197.203:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40392 | Remote Addr: 18.154.48.61:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40397 | Remote Addr: 34.249.63.188:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40398 | Remote Addr: 13.107.6.158:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40401 | Remote Addr: 20.189.173.1:443 | PID: 0 | 
+Local Addr: 192.168.18.47:40409 | Remote Addr: 13.107.6.158:443 | PID: 0 | 
+Local Addr: 0.0.0.0:49664 | Remote Addr: 0.0.0.0:0 | PID: 964 | 
+Local Addr: 0.0.0.0:49665 | Remote Addr: 0.0.0.0:0 | PID: 864 | 
+Local Addr: 0.0.0.0:49666 | Remote Addr: 0.0.0.0:0 | PID: 1712 | 
+Local Addr: 0.0.0.0:49667 | Remote Addr: 0.0.0.0:0 | PID: 2336 | 
+Local Addr: 0.0.0.0:49668 | Remote Addr: 0.0.0.0:0 | PID: 5040 | 
+Local Addr: 0.0.0.0:49670 | Remote Addr: 0.0.0.0:0 | PID: 936 | 
+Local Addr: 0.0.0.0:445 | Remote Addr: 0.0.0.0:0 | PID: 4 | 
+Local Addr: 0.0.0.0:7680 | Remote Addr: 0.0.0.0:0 | PID: 9892 | 
+Local Addr: 0.0.0.0:23130 | Remote Addr: 0.0.0.0:0 | PID: 11304 | 
+Local Addr: 0.0.0.0:23132 | Remote Addr: 0.0.0.0:0 | PID: 11304 | 
